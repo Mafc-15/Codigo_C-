@@ -1,0 +1,8 @@
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\bin\Debug\Arbol_Analisis.exe.config
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\bin\Debug\Arbol_Analisis.exe
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\bin\Debug\Arbol_Analisis.pdb
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\obj\Debug\Arbol_Analisis.csproj.AssemblyReference.cache
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\obj\Debug\Arbol_Analisis.csproj.CoreCompileInputs.cache
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\obj\Debug\Arbol_Analisis.exe
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\obj\Debug\Arbol_Analisis.pdb
+C:\Users\52557\Documents\POO VS\Arbol_Analisis\Arbol_Analisis\obj\Debug\Arbol_Analisis.exe.config
